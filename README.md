@@ -41,7 +41,7 @@ tradeoffs.
 
 # Design Principles
 
-## 1️⃣ Zero-Downtime Deployments
+## 1️ Zero-Downtime Deployments
 
 ECS Service configuration:
 
@@ -64,7 +64,7 @@ Traffic never drops below healthy desired count.
 
 ------------------------------------------------------------------------
 
-## 2️⃣ Secure Secrets Handling
+## 2️ Secure Secrets Handling
 
 Secrets are:
 
@@ -86,7 +86,7 @@ Least privilege enforced.
 
 ------------------------------------------------------------------------
 
-## 3️⃣ Cost-Optimized Capacity Strategy
+## 3️ Cost-Optimized Capacity Strategy
 
 Auto Scaling Group:
 
@@ -128,7 +128,7 @@ This ensures:
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Networking
+## 5️ Networking
 
 Assumptions:
 
